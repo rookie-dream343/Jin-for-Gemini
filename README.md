@@ -1,7 +1,7 @@
 <div align="center">
   <img src="public/icon-128.png" alt="logo"/>
   <h1>Jin for Gemini</h1>
-  <h3>Make Your Gemini Experience Truly Yours ✨</h3>
+  <h3>Make Your Gemini Truly Yours ✨</h3>
   <p>
     Navigate conversations with an elegant timeline, organize chats with folders, and build your own prompt vault.<br>
     <b>It's the missing power-up for Google Gemini.</b>
